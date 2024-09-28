@@ -1,4 +1,4 @@
 # collage
 hello
 <br>
-author - krupesh mandanka
+author - (krupesh mandanka)
